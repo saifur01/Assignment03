@@ -1,5 +1,7 @@
 
+//https://github.com/saifur01/Assignment03
 
+// kilometerToMeter
 
 function kilometerToMeter(kilometer){
     var getMeter = kilometer * 1000;
@@ -73,4 +75,5 @@ console.log(result);
   }
         // My fovorite Friend Name
   var getmegaFriend = megaFriend (['Saifur', 'Misba', 'Mitu', 'Sajal']);
+  // console Output
   console.log(getmegaFriend);
